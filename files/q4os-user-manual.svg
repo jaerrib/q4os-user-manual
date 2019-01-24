@@ -41,8 +41,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="8.46875"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:cx="15.237681"
+     inkscape:cy="28.744235"
      inkscape:window-x="-3"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -106,68 +106,60 @@
 	.st5{fill:#FF5722;}
 </style>
   <g
-     id="g4659"
-     transform="matrix(0.03777576,0,0,0.03777576,8.7952482,35.500807)"
-     style="fill:#fafafa">
+     style="fill:#fafafa"
+     id="g4590"
+     transform="matrix(0.03777576,0,0,0.03777576,20.000001,25.492447)">
     <g
-       transform="translate(296.61224,-264.94132)"
-       id="g4590"
-       style="fill:#fafafa">
-      <g
-         id="g4576"
-         class="st0"
-         style="display:none;fill:#fafafa">
-        <path
-           id="path4574"
-           d="m 431.3,357.4 c -9.9,35 -37.4,62.5 -72.4,72.4 v 232 C 520.5,648.4 649.2,519.2 662,357.4 Z"
-           class="st1"
-           inkscape:connector-curvature="0"
-           style="display:inline;fill:#fafafa" />
-      </g>
-      <g
-         id="g4580"
-         style="fill:#fafafa">
-        <path
-           id="path4578"
-           d="M 229.2,357.4 H 0 C 12.8,519.7 142.3,649.2 304.6,662 V 430.7 c -36.4,-9.2 -65.2,-37.3 -75.4,-73.3 z"
-           class="st2"
-           inkscape:connector-curvature="0"
-           style="fill:#fafafa" />
-      </g>
-      <g
-         id="g4584"
-         style="fill:#fafafa">
-        <path
-           id="path4582"
-           d="M 304.6,226.9 V 0 C 142.8,12.8 13.6,141.5 0.1,303.1 h 228.3 c 9.4,-37.4 38.8,-66.8 76.2,-76.2 z"
-           class="st3"
-           inkscape:connector-curvature="0"
-           style="fill:#fafafa" />
-      </g>
-      <g
-         id="g4588"
-         style="fill:#fafafa">
-        <path
-           id="path4586"
-           d="M 432.1,303.1 H 661.8 C 648.5,142 520,13.5 358.9,0.1 v 227.6 c 36,10.2 64.1,39 73.2,75.4 z"
-           class="st4"
-           inkscape:connector-curvature="0"
-           style="fill:#fafafa" />
-      </g>
+       style="display:none;fill:#fafafa"
+       class="st0"
+       id="g4576">
+      <path
+         style="display:inline;fill:#fafafa"
+         inkscape:connector-curvature="0"
+         class="st1"
+         d="m 431.3,357.4 c -9.9,35 -37.4,62.5 -72.4,72.4 v 232 C 520.5,648.4 649.2,519.2 662,357.4 Z"
+         id="path4574" />
     </g>
     <g
-       transform="translate(296.61224,-264.94132)"
-       id="g4594"
-       style="fill:#fafafa">
-      <rect
-         id="rect4592"
-         height="260.10001"
-         width="142.5"
-         class="st5"
-         transform="matrix(0.7071,-0.7071,0.7071,0.7071,-201.4142,494.5681)"
-         y="360.39999"
-         x="425"
-         style="fill:#fafafa" />
-    </g>
+       style="fill:#fafafa"
+       id="g4580" />
+    <g
+       style="fill:#fafafa"
+       id="g4584" />
+    <g
+       style="fill:#fafafa"
+       id="g4588" />
+  </g>
+  <g
+     transform="matrix(0.74649419,0,0,0.74626866,8.612233,14.115626)"
+     id="g4646"
+     style="fill:#fafafa;fill-opacity:1">
+    <path
+       id="path8-3"
+       d="M 26.853489,33.335952 H 15.254999 C 15.902733,41.549018 22.455981,48.102266 30.669047,48.75 V 37.045242 c -1.841994,-0.465559 -3.299395,-1.887538 -3.815558,-3.70929 z"
+       class="st2"
+       inkscape:connector-curvature="0"
+       style="fill:#fafafa;fill-opacity:1;stroke-width:0.05060423" />
+    <path
+       id="path12-6"
+       d="M 30.669047,26.7321 V 15.25 c -8.187764,0.647734 -14.72583,7.160499 -15.408988,15.338142 h 11.552946 c 0.47568,-1.892598 1.963444,-3.380362 3.856042,-3.856042 z"
+       class="st3"
+       inkscape:connector-curvature="0"
+       style="fill:#fafafa;fill-opacity:1;stroke-width:0.05060423" />
+    <path
+       id="path16-9"
+       d="M 37.121087,30.588142 H 48.744878 C 48.071842,22.435801 41.569199,15.933157 33.416857,15.25506 v 11.517523 c 1.821752,0.516163 3.243731,1.973565 3.70423,3.815559 z"
+       class="st4"
+       inkscape:connector-curvature="0"
+       style="fill:#fafafa;fill-opacity:1;stroke-width:0.05060423" />
+    <rect
+       id="rect22-1"
+       height="13.162032"
+       width="7.2110324"
+       class="st5"
+       transform="rotate(-45)"
+       y="50.297688"
+       x="-3.393923"
+       style="fill:#fafafa;fill-opacity:1;stroke-width:0.05060374" />
   </g>
 </svg>
